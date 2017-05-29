@@ -50,4 +50,4 @@ async def on_message(message):
             else: CommandMessage = 'tag not found'
             await client.send_message(message.channel, CommandMessage)
 
-client.run('MjA5NDQ4MzM1MzQwMzM5MjAw.DA21Fg.KJFn4op5igTgI3CcYeFWBbQuaw0')
+client.run(token)
