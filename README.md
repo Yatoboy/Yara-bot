@@ -2,9 +2,9 @@
 current available features: 
   Tags:
    -tags
-   -tag <tag-name>
-   -createtag <tag-name> | <tag-text>
-   -deltag <tag-name>
+   -tag \<tag-name>
+   -createtag \<tag-name> | \<tag-text>
+   -deltag \<tag-name>
 Planned features:
  Image albums
  twitch alerts 
