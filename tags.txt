@@ -1,3 +1,0 @@
-tag Yes this is a tag
-Hello hi
-owner <@169051283112591360>
